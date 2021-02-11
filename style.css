@@ -19,6 +19,9 @@ body{
    ul{
      border-radius: 6px;
    }
+   nav{
+     color: white;
+   }
    nav, div{
      padding : 10px;
    
