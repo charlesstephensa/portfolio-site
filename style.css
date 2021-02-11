@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing : 1px;
+    text-align: left;
+    background: rgb(141, 141, 141);
+   }
+   article{
+       font-size : 13;
+       color: rgb(82, 73, 72);
+   }
+
+   div{
+       background-color: white;
+       max-width : 500px;
+       margin : 50px;
+
+       box-shadow: 2px 8px 15px rgb(66, 66, 66);
+   }
+   ul{
+     border-radius: 6px;
+   }
+   nav, div{
+     padding : 10px;
+   
+   }
+   img ,div {
+    border-style : solid;
+    border-radius : 9px;
+    box-shadow: 2px 8px 15px rgb(66, 66, 66); 
+   }
+      img{
+        margin: 3%;
+       width: 75px;
+       height: 75px;
+       border-color: gray;
+       border-width: 2px;
+      
+   }
